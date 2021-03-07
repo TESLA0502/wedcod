@@ -30,7 +30,7 @@ body {
           max-height: 250px;
           width: auto; } }
     .ww-home-page .ww-wedding-announcement .ww-couple-name {
-      font-size: 70px; }
+      font-size: 70px; } 
       @media (max-width: 576px) {
         .ww-home-page .ww-wedding-announcement .ww-couple-name {
           font-size: 50px; } }
